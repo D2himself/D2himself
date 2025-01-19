@@ -44,7 +44,7 @@ Welcome to my GitHub profile! I am a passionate Data Scientist with a stron foun
 ### 📫Let's Connect
 - LinkedIn: [link](https://www.linkedin.com/in/omokemi-ayodimeji/)
 - Porfolio: [link](https://d2himself.github.io/Omokemi.github.io/)
-- Email: omokemiqyodimeji@gmail.com
+- Email: omokemiayodimeji@gmail.com
   
 Feel free to reach out to discuss projects, collaborations, or opportunities!
 
