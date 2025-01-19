@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I am a passionate Data Scientist with a stron foun
 **Project Name**: Insurance Charges Analysis 
   - **Description**: Explored medical insurance data to predict charges using regression models
   -  **Tech Used**: Python, pandas, scikit-learn, seaborn
-  -   [**Link**]
+  -   [**Link**](https://github.com/D2himself/Insurance-charges-analysis)
     
 **Project Name**: Biodiversity Analysis
   - **Description**: Analyzed biodiversity data to uncover patterns and insights about species distribution
