@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm Dimeji
 
-Welcome to my GitHub profile! I am a passionate Data Scientist with a stron foundation in mathematics, programming, and problem-solving. I love exploring data, building models, and creating impactful solutions. My goal is to leverage data science and machine learning to solve real-world challenges an drive innovation.
+Welcome to my GitHub profile! I am a passionate Data Scientist with a strong foundation in mathematics, programming, and problem-solving. I love exploring data, building models, and creating impactful solutions. My goal is to leverage data science and machine learning to solve real-world challenges an drive innovation.
 
 ### 🔍 About Me
 - 🎓 **Education**: Bsc in Mathematics | Pursuing a Master's in Data Science
