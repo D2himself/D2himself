@@ -1,4 +1,4 @@
-### Hi there! 👋 I'm Dimeji
+### Hi there! 👋 I'm Kemi
 
 Welcome to my GitHub profile! I am a passionate Data Scientist with a strong foundation in mathematics, programming, and problem-solving. I love exploring data, building models, and creating impactful solutions. My goal is to leverage data science and machine learning to solve real-world challenges an drive innovation.
 
