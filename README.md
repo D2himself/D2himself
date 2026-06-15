@@ -24,10 +24,10 @@ engine in raw Python before I trusted myself to fine-tune one.
   deployed on Hugging Face Spaces with Gradio.
 
 ### ⚙️ Technical Skills
-**Languages:** Python · SQL · R
-**ML / Deep Learning:** PyTorch · Hugging Face (Transformers, TRL, PEFT) · fastai ·
-knowledge distillation · SFT / LoRA · NLP · computer vision
-**Tooling:** Git · Docker · n8n · Supabase · Hugging Face Hub · Gradio
+**Languages:** Python • SQL • R
+**ML / Deep Learning:** PyTorch • Hugging Face (Transformers, TRL, PEFT) • fastai •
+knowledge distillation • SFT / LoRA • NLP • computer vision
+**Tooling:** Git • Docker • n8n • Supabase • Hugging Face Hub • Gradio
 
 ### 🌱 Currently Learning
 - Post-training of LLMs — SFT, preference optimization, and RL for reasoning
