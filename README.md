@@ -1,51 +1,41 @@
-### Hi there! 👋 I'm Kemi
+### Hi, I'm Kemi 👋
 
-Welcome to my GitHub profile! I am a passionate Data Scientist with a strong foundation in mathematics, programming, and problem-solving. I love exploring data, building models, and creating impactful solutions. My goal is to leverage data science and machine learning to solve real-world challenges an drive innovation.
+Machine Learning Engineer focused on **efficient and small language models** —
+knowledge distillation, post-training (SFT / LoRA), and hybrid LLM + deterministic
+systems. I learn by building from first principles: I rebuilt a PyTorch-like autograd
+engine in raw Python before I trusted myself to fine-tune one.
 
-### 🔍 About Me
-- 🎓 **Education**: Bsc in Mathematics | Pursuing a Master's in Data Science
--  💻 **Skills**: Python, SQL, Machine Learning, Deep Learning, Data Visualization (PowerBI, Tableau)
--  🚀 **Learning Focus**: Large Language Models (LLMs), Advanced Machine Learning, and Financial Analytics
--  🌍 Based in **Nigeria**, open to global opportunities
--  🎯 **Career Interests**: Fintech, Retail, E-commerce, and AI Research
--  📖 Currently diving deep into deep learning and LLMs
+### 🔭 Currently Building
+- **[hop-specialist](https://github.com/D2himself/hop-specialist)** — Distilling
+  first-hop reasoning from a GPT-4o teacher into a 270M Gemma-3 SLM for modular
+  multi-hop QA on HotpotQA. Schema-constrained YAML output; exact-match evaluation
+  against teacher traces.
+- **[ai-triage-system](https://github.com/D2himself/ai-triage-system)** — A
+  failure-aware support-triage system where the LLM proposes and a deterministic
+  policy engine decides. Full audit trails, escalation paths, and human-in-the-loop
+  safeguards. *Reasoning ≠ control.*
 
-### 💡What You'll Find Here
-## 📁 Feature Project
-**Project Name**: Insurance Charges Analysis 
-  - **Description**: Explored medical insurance data to predict charges using regression models
-  -  **Tech Used**: Python, pandas, scikit-learn, seaborn
-  -   [**Link**](https://github.com/D2himself/Insurance-charges-analysis)
-    
-**Project Name**: Biodiversity Analysis
-  - **Description**: Analyzed biodiversity data to uncover patterns and insights about species distribution
-  - **Tech Used**: Python, pandas, matplotlib, seaborn
-  -  [**Link** ](https://github.com/D2himself/Biodiversity/blob/main/biodiversity_starter/biodiversity.ipynb)
-  
-### 🛠️ Technical Skills
-## Programming Languages
-- Python | SQL | R
-## Data Science & Machine Learning
-- Data Cleaning, EDA, Feature Engineering
-- Classification, Regression, Clustering
-- Time Series Analysis, NLP
-## Tools & Platforms
-- Scikit-learn, TensorFlow, PyTorch, Keras
-- PowerBl, Tableau, Excel
-- Git, GitHub
-## Other Skills
-- Problem Solving | Research | Collaboration
+### 🛠️ Built From Scratch (understanding > importing)
+- **[mlp-from-scratch](https://github.com/D2himself/mlp-from-scratch)** — A full
+  neural-network pipeline — tensors, autograd, modules, optimizers, training loop —
+  mirroring the PyTorch/fastai API in raw Python. The goal was transparency, not speed.
+- **[real_vs_fake_face](https://github.com/D2himself/real_vs_fake_face)** — A
+  ResNet / fastai transfer-learning classifier that flags real vs. AI-generated faces,
+  deployed on Hugging Face Spaces with Gradio.
 
-### 🌱What I'm Currently Learning
-- Advanced Machine Learning Techniques
-- Deep Learning and LLM Development
-- Financial Analysis for Fintech Applications
+### ⚙️ Technical Skills
+**Languages:** Python · SQL · R
+**ML / Deep Learning:** PyTorch · Hugging Face (Transformers, TRL, PEFT) · fastai ·
+knowledge distillation · SFT / LoRA · NLP · computer vision
+**Tooling:** Git · Docker · n8n · Supabase · Hugging Face Hub · Gradio
 
-### 📫Let's Connect
-- LinkedIn: [link](https://www.linkedin.com/in/omokemi-ayodimeji/)
-- Porfolio: [link](https://d2himself.github.io/Omokemi.github.io/)
-- Email: omokemiayodimeji@gmail.com
-  
-Feel free to reach out to discuss projects, collaborations, or opportunities!
+### 🌱 Currently Learning
+- Post-training of LLMs — SFT, preference optimization, and RL for reasoning
+- Efficient inference & serving for small language models
 
-*"Data is the new oil, and i strive to refine it into actionable insights and impactful solutions."*
+### 📫 Let's Connect
+- **LinkedIn:** [omokemi-ayodimeji](https://www.linkedin.com/in/omokemi-ayodimeji/)
+- **Portfolio:** [d2himself.github.io](https://d2himself.github.io/Omokemi.github.io/)
+- **Email:** omokemiayodimeji@gmail.com
+
+*Building toward Research / ML Engineering on efficient language models — and teaching ML at CAMLDS along the way.*
