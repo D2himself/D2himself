@@ -1,9 +1,11 @@
 ### Hi, I'm Kemi 👋
 
-Machine Learning Engineer focused on **efficient and small language models** -
-knowledge distillation, post-training (SFT / LoRA), and hybrid LLM + deterministic
-systems. I learn by building from first principles: I rebuilt a PyTorch-like autograd
-engine in raw Python before I trusted myself to fine-tune one.
+Machine Learning Engineer working on **efficient reasoning models**. I turn
+large language models into small, efficient reasoners that run under real
+compute limits, using knowledge distillation, quantization, parameter-efficient
+fine-tuning, and careful evaluation. I learn by building from first principles:
+I rebuilt a PyTorch-like autograd engine in raw Python before I trusted myself
+to fine-tune one.
 
 ### 🔭 Currently Building
 - **[hop-specialist](https://github.com/D2himself/hop-specialist)**: Distilling
@@ -38,4 +40,5 @@ knowledge distillation • SFT / LoRA • NLP • computer vision
 - **Portfolio:** [d2himself.github.io](https://d2himself.github.io/Omokemi.github.io/)
 - **Email:** omokemiayodimeji@gmail.com
 
-*Building toward Research / ML Engineering on efficient language models — and teaching ML at CAMLDS along the way.*
+*Building toward research and ML engineering on efficient reasoning models, and
+teaching ML at CAMLDS along the way.*
