@@ -24,6 +24,8 @@ to fine-tune one.
 - **[real_vs_fake_face](https://github.com/D2himself/real_vs_fake_face)**: A
   ResNet / fastai transfer-learning classifier that flags real vs. AI-generated faces,
   deployed on Hugging Face Spaces with Gradio.
+- **[TinyGPT](https://github.com/D2himself/TinyGPT)**: A GPT-style transformer implemented from scratch, inspired by
+Karpathy's nanoGPT.
 
 ### ⚙️ Technical Skills
 - **Languages:** Python • SQL • R 
